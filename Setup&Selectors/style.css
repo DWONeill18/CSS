@@ -7,8 +7,8 @@ color: maroon;
 }
 
 h2.destination {
-    font-family: cursive;
-  }
+font-family: cursive;
+}
 
 .title {
 color: teal;
@@ -28,4 +28,17 @@ font-family: cursive;
 
 .capitalize {
 text-transform: capitalize;
+}
+
+.description h5 {
+color: teal;
+}
+
+h5 {
+color: rebeccapurple !important;
+}
+
+h5,
+p {
+font-family: Georgia;
 }

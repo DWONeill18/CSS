@@ -52,6 +52,7 @@ html {
     position: fixed;
     top: 0;
     width: 100%;
+    font-weight: 900;
   }
   
   .header li {
@@ -83,6 +84,7 @@ html {
     border-bottom: 1px solid #fff;
     padding: 10px;
     color: #ffffff;
+    font-weight: bold;
   }
   
   /* Editorial Sections */
@@ -105,6 +107,7 @@ html {
   .font-card .creator {
     font-size: 20px;
     line-height: 1.25;
+    font-style: italic;
   }
   
   .sample {
